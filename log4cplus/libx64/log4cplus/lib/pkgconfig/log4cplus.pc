@@ -1,0 +1,13 @@
+prefix=/dev/shm/gb_detection/log4cplus/bin
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=
+
+Name: log4cplus
+Version: 2.0.8
+Description: Simple to use, thread-safe C++ logging API
+Requires:
+Libs: -L${libdir} -llog4cplus
+Libs.private: -latomic  
+Cflags: -I${includedir}

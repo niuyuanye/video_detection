@@ -1,0 +1,12 @@
+/build
+/log
+/weigths
+CMakeLists_old.txt
+/tensorrtx-yolov5-v7.0-new
+/tensorrtx-yolov5-v6.0
+/tensorRT-old
+*/build
+*/*/build
+*/*.wts
+*/*.ppm
+*idea*
