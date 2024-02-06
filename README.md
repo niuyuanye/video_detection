@@ -6,10 +6,10 @@
 <p align = "center"> 
 <img  src="./pic/depth1.png" width="800"  higtt="400"/>
 <img  src="./pic/depth2.png" width="800"  higtt="400"/>
-<img  src="./pic/yolov5.png" width="300" />
-<img  src="./pic/yolov8.png" width="300" />
-<img  src="./pic/seg.png" width="300" />
-<img  src="./pic/pose.png" width="300" />
+<img  src="./pic/yolov5.png" width="400" />
+<img  src="./pic/yolov8.png" width="400" />
+<img  src="./pic/seg.png" width="400" />
+<img  src="./pic/pose.png" width="400" />
 </p>
 
 
